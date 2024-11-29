@@ -1,0 +1,14 @@
+{
+    "name": "arctic_o1js",
+    "version": "1.0.0",
+    "dependencies": {
+        "o1js": "^2.1.0",
+        "zkapp-cli": "^0.22.0"
+    },
+    "devDependencies": {
+        "prettier": "^3.4.1"
+    },
+    "scripts": {
+        "format": "prettier --write '**/*.ts'"
+    }
+}
